@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1009494198163",
+    "project_id": "upload-gdrive-e7302",
+    "storage_bucket": "upload-gdrive-e7302.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1009494198163:android:516ad9e805d6435f920a66",
+        "android_client_info": {
+          "package_name": "com.uload.gdrive.upload_gdrive"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1009494198163-vdnhjomjnbvq7i4gua2qjglbduo44tqo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.uload.gdrive.upload_gdrive",
+            "certificate_hash": "9981968a435bceaa5faaed4d5b6e864095973a91"
+          }
+        },
+        {
+          "client_id": "1009494198163-tbrnef9bd4513ju3ohusjq464047l7m3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOF1cZw6rsvA6GkF_aERhw2HY7m4SZ_Qc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1009494198163-tbrnef9bd4513ju3ohusjq464047l7m3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
